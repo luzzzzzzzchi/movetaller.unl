@@ -1,0 +1,5 @@
+{
+  "name": "Move- Juego del Trabado",
+  "description": "Un juego de puzzle Klotski colaborativo. Desliza los bloques para mover la pieza naranja a la salida.",
+  "requestFramePermissions": []
+}
